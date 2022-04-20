@@ -12,18 +12,25 @@ h2{font-size:35px;
 h3{font-size: 30px;
 }
 h4{font-size: 25px;
+    background-color: #555273;
+    color: #e2eff1;
+    padding:60px;
 }
 h5{font-size: 22px;
+    margin-top:75px;
 }
 h6{font-size: 18px;
+    margin-top:15px;
 }
 .quote{
     text-align:center;
     font-family: "Helvetica", sans-serif;
     font-size:18px;
     font-style:italic;
-    padding:1rem;
+    padding-bottom:1rem;
     margin-bottom: 1rem;
+    color:#65799b;
+
 }
 img {
     max-width: 20%;
@@ -34,6 +41,7 @@ p{
     text-align:center;
     font-family: "Helvetica", sans-serif;
     font-size:18px;
+    margin-bottom: 75px;
 }
 div{
     text-align:center;
@@ -57,7 +65,7 @@ th {
 td {
     border: 1px solid white;
     border-collapse: collapse;
-    background-color: white;
+    background-color: #f5feff;
     width: 180px;
     height: 45px;
     text-align: center;
@@ -71,5 +79,12 @@ ul {
     text-align: left;
 }
 li{font-size:18px;
+    color: #65799b;
+    font-family: "helvetica", sans-serif;
 
+}
+.links {
+    margin: 75px;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
 }
